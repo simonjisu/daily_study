@@ -1,0 +1,2 @@
+1. search bar
+https://www.blog.pythonlibrary.org/2017/12/13/flask-101-how-to-add-a-search-form/
